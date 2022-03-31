@@ -6,7 +6,7 @@ And Bulma is used for CSS
 
 There are interesting interfaces:
 
-<img src="/Photos Readme/home1.png" alt="Home" style="height: 100px; width:100px;"/>
+<img src="/Photos Readme/home1.png" alt="Home" style="height: 200px; width:300px;"/>
 ### Clone the repository
 git clone https://github.com/LiganiumInc/E-commerce-Website-With-Django-and-Vue.git
 
@@ -18,4 +18,5 @@ git clone https://github.com/LiganiumInc/E-commerce-Website-With-Django-and-Vue.
 
 ### To get the vue interface, go to beauty_vue and run : 
 - npm run serve
+- 
 Of course you should have vuejs install on your laptop
