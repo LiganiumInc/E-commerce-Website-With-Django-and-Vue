@@ -5,8 +5,15 @@ The Rest requests from vue interface are made with axios
 And Bulma is used for CSS
 
 There are interesting interfaces:
+## Home
+<img src="/Photos Readme/home1.png" alt="Home" style="height: 500px; width:1000px;"/>
+## Latest Products
+<img src="/Photos Readme/latests_products.png" alt="Home" style="height: 500px; width:1000px;"/>
+## Product Details 
+<img src="/Photos Readme/product_detail.png" alt="Home" style="height: 500px; width:1000px;"/>
+## Login
+<img src="/Photos Readme/product_detail.png" alt="Home" style="height: 500px; width:1000px;"/>
 
-<img src="/Photos Readme/home1.png" alt="Home" style="height: 500px; width:800px;"/>
 ### Clone the repository
 git clone https://github.com/LiganiumInc/E-commerce-Website-With-Django-and-Vue.git
 
