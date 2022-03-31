@@ -19,7 +19,7 @@ There are interesting interfaces:
 
 
 ## Login
-<img src="/Photos Readme/login.png" alt="Home" style="height: 500px; width:500px;"/>
+<img src="/Photos Readme/login.png" alt="Home" style="height: 300px; width:500px;"/>
 
 
 ### Clone the repository
