@@ -6,7 +6,7 @@ And Bulma is used for CSS
 
 There are interesting interfaces:
 
-<img src="/Photos Readme/home1.png" alt="Home" style="height: 200px; width:500px;"/>
+<img src="/Photos Readme/home1.png" alt="Home" style="height: 500px; width:800px;"/>
 ### Clone the repository
 git clone https://github.com/LiganiumInc/E-commerce-Website-With-Django-and-Vue.git
 
